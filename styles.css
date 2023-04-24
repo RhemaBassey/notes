@@ -2,7 +2,9 @@ h1{
     color: red;
 }
 
-
+button{
+    width: 100px;
+}
 button:hover{
     color: green;
 }
